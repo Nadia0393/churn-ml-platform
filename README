@@ -1,0 +1,19 @@
+Title
+
+End-to-End Churn Prediction Platform using Microsoft Fabric
+
+Problem Statement
+
+Subscription company wants to predict customer churn to reduce revenue loss.
+
+Architecture (High-Level)
+
+Bronze: Raw ingestion
+
+Silver: Cleaned data
+
+Gold: Feature engineering
+
+ML Layer: Model training
+
+CI/CD: Automated retraining
