@@ -12,6 +12,16 @@ Bronze: Raw ingestion
 
 Silver: Cleaned data
 
+Silver Layer Improvements
+
+Fixed schema
+
+Removed 11 invalid records
+
+Cast numeric fields properly
+
+Created structured Delta table
+
 Gold: Feature engineering
 
 ML Layer: Model training
